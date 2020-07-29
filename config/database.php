@@ -48,11 +48,11 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' => 'localhost',
+            'host' => 'https://www.db4free.net/',
             'port' => '3306',
-            'database' => 'oraschool50_empty',
-            'username' => 'root',
-            'password' => '',
+            'database' => 'cotito',
+            'username' => 'usermysql_27',
+            'password' => 'cotito27',
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'strict' => false,
